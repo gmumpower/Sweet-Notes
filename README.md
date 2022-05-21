@@ -15,13 +15,10 @@ This command line Application allows you to Enter, save and review notes through
 
 -Commandline Application
 
+-CSS
+
+-HTML
+
   ## Future Development
--Integrate  copy/paste  function
+- create edit feature
 
--Apply user friendly mobile views
-
--Integrate to REACT.js to create mobile save function and API
-
--Apply more advanced options to further customization of personal passwords
-
--Create login for saving passwords within database
