@@ -1,4 +1,4 @@
-# Password Generator ![MIT](https://img.shields.io/badge/license-MIT-green)
+# Sweet Notes ![MIT](https://img.shields.io/badge/license-MIT-green)
 Deployed Application: https://sweet-notes-1.herokuapp.com/
 
   ## Description
